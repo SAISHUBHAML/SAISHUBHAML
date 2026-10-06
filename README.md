@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sai Shubham Laisetti 👋
 
-<!--
-**SAISHUBHAML/SAISHUBHAML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- One or two lines about you: what you study or work on, and where. -->
 
-Here are some ideas to get you started:
+📍 Hyderabad, India · 🌐 [Portfolio](https://saishubhaml.github.io/Portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Machine learning for perception and driving** — detection, tracking and sensor fusion on driving datasets, and gap-acceptance modelling
+- **Deep learning on brain imaging** — transformer models on rs-fMRI data
+- **Small web apps** — tools I build for myself and for people around me
+
+## Selected projects
+
+| Project | What it is |
+|---|---|
+| [Autonomous-driving-perception-benchmark](https://github.com/SAISHUBHAML/Autonomous-driving-perception-benchmark) | Multi-dataset perception and tracking benchmark: YOLOv8 + 3D EKF sensor fusion + ByteTrack on nuScenes, Waymo Open and Argoverse 2 |
+| [Brainwavelet](https://github.com/SAISHUBHAML/Brainwavelet) | Wavelet-based transformer with time-frequency cross-attention on rs-fMRI data for ASD and ADHD diagnosis |
+| [Machine-Learning-Approaches-for-Gap-Acceptance-Modelling](https://github.com/SAISHUBHAML/Machine-Learning-Approaches-for-Gap-Acceptance-Modelling) | Machine learning models for driver gap acceptance |
+| [quora-question-pair-similarity](https://github.com/SAISHUBHAML/quora-question-pair-similarity) | Detecting duplicate question pairs |
+| [spendly](https://github.com/SAISHUBHAML/spendly) | Expense tracking application |
+| [JLPT-N5-Trainer](https://github.com/SAISHUBHAML/JLPT-N5-Trainer) | Practice tool for the JLPT N5 Japanese exam |
+| [CIP-DAY](https://github.com/SAISHUBHAML/CIP-DAY) | Live brackets and results site for CIP Day 2026 sports and activities |
+
+## Tools I use
+
+Python · C++ · JavaScript · PyTorch · HTML/CSS
+
+## Get in touch
+
+- Portfolio: https://saishubhaml.github.io/Portfolio/
+<!-- Add email or LinkedIn here if you want them public. -->
