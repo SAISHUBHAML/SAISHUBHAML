@@ -6,7 +6,7 @@
 
 ## What I work on
 
-- **Machine learning for perception and driving** — detection, tracking and camera–LiDAR 3D localization on driving datasets, and gap-acceptance modelling
+- **Machine learning for perception and driving** — detection, LiDAR segmentation, camera–LiDAR fusion and tracking on driving datasets, and gap-acceptance modelling
 - **Deep learning on brain imaging** — transformer models on rs-fMRI data
 - **Small web apps** — tools I build for myself and for people around me
 
@@ -14,7 +14,7 @@
 
 | Project | What it is |
 |---|---|
-| [Autonomous-driving-perception-benchmark](https://github.com/SAISHUBHAML/Autonomous-driving-perception-benchmark) | Reproducible perception benchmark on nuScenes: zero-shot vs. fine-tuned YOLOv8 detection, LiDAR-assisted 3D localization, and ByteTrack/BoT-SORT tracking, all scored against ground truth |
+| [Autonomous-driving-perception-benchmark](https://github.com/SAISHUBHAML/Autonomous-driving-perception-benchmark) | Reproducible camera–LiDAR perception benchmark on nuScenes: YOLOv8 detection, RANSAC + DBSCAN LiDAR segmentation, LiDAR-assisted 3D localization, and EKF 3D / ByteTrack / BoT-SORT tracking, all scored against ground truth |
 | [Brainwavelet](https://github.com/SAISHUBHAML/Brainwavelet) | Wavelet-based transformer with time-frequency cross-attention on rs-fMRI data for ASD and ADHD diagnosis |
 | [Machine-Learning-Approaches-for-Gap-Acceptance-Modelling](https://github.com/SAISHUBHAML/Machine-Learning-Approaches-for-Gap-Acceptance-Modelling) | Machine learning models for driver gap acceptance |
 | [quora-question-pair-similarity](https://github.com/SAISHUBHAML/quora-question-pair-similarity) | Detecting duplicate question pairs |
